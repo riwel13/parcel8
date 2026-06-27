@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "browserslist": "> 0.5%, last 2 versions, not dead",
+  "homepage": "https://riwel13.github.io/parcel8/",
   "scripts": {
     "dev": "npx parcel src/index.html",
     "build": "parcel build src/index.html --public-url /parcel8/",
