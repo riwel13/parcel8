@@ -8,9 +8,8 @@ let bookmarks = [];
 
 // bookmarks.push(JSON.parse(localStorage.getItem("bookmarks")));
 
-bookmarks = JSON.parse(localStorage.getItem("bookmarks"))
+bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
 
-console.log(JSON.parse(localStorage.getItem("bookmarks")));
 
 
 
